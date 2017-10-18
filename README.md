@@ -1,30 +1,45 @@
-# landing-page-boilerplate
+# Above &amp; Beneath: Featured Content Layout Effect
 
-A pure client-side landing page template that you can freely fork, customize, host and link to your own domain name (e.g. using Github Pages).
-Relies on Mailchimp (for user email subscriptions) and Google Analytics (for stats).
+A landing page template with a featured content section and background sounds that change according to the view.
 
-# Features
+[Article on Codrops](http://tympanus.net/codrops/?p=27595)
 
-- Static HTML page => no fancy hosting needed (Github Pages does it for free)
-- Light source code => fast to load
-- Reponsive design
-- User emails are submitted to the Mailchimp list of your choice, so you can contact them when needed.
+[Demo](http://tympanus.net/Development/AboveBeneath/)
 
-# How to use
+## License
 
-- Fork this project to your own Github account;
-- Change the name, description and link, on the page of your freshly forked project on Github;
-- Make sure it's published, by opening `<your_github_username>.github.io/<your_fork_name>`;
-- Update the following lines in index.html:
-  - enter the title of your page/product into the `<title>` and `<h1>` elements;
-  - update the baseline of your page/product into the first `<p>` element;
-  - update the content of all the `<meta>` elements;
-  - update the `action` attribute of the `<form>` element, so that it leads to your own [Mailchimp](http://mailchimp.com) list;
-  - update the `UA-1858235-15` code with your own Google Analytics code;
-  - replace `favicon.ico` with your own; ([ICO Converter](http://www.icoconverter.com/) can help)
-- Replace the [default background image](https://www.pexels.com/photo/dawn-landscape-mountains-nature-1852/) with your own in `/res/background.jpg`;
-- If you want to use Github Pages as hosting platform and that your custom domain name links to it, set your custom domain name in the `CNAME` file; (read more [here](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/))
-- Go to your subdomain, hard-refresh a few times (or wait 24 hours), to make sure that it works;
-- Submit your own email in the subscription form to make sure that it works;
-- Go to your Google Analytics dashboard to make sure that your page view was taken into account;
-- Enjoy your free landing page! :-)
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
+
+Read more here: [License](http://tympanus.net/codrops/licensing/)
+
+## Credits
+
+- [imagesLoaded](http://imagesloaded.desandro.com/)
+- [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
+- [Underwater Pool Sound](http://soundbible.com/1660-Underwater-Pool.html), [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Quiet Lake Sound](https://archive.org/details/aporee_2407_3382), [Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+- [Water Splash Sound](http://soundbible.com/1460-Water-Splash.html), [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Ocean Waves Sound](http://soundbible.com/1935-Ocean-Waves.html), [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Depth Charge 2 Sound](http://soundbible.com/1604-Depth-Charge-2.html), [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Scuba Tanks - Breathing](https://www.freesound.org/people/ben_jamin0/sounds/116656/), [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [coral by Agne Alesiute from the Noun Project](https://thenounproject.com/term/coral/61804/)
+- [coral by parkjisun from the Noun Project](https://thenounproject.com/term/coral/469927/)
+- [coral by Yu luck from the Noun Project](https://thenounproject.com/term/coral/543550/)
+- [Seaweed by Darrin Higgins from the Noun Project](https://thenounproject.com/term/seaweed/3832/)
+- [Algae by Ecem Afacan from the Noun Project](https://thenounproject.com/term/algae/164784/)
+- [Seaweed by Snpr Cartman from the Noun Project](https://thenounproject.com/term/seaweed/416435/)
+- Images from [Unsplash.com](http://unsplash.com)
+- [Speaker icon by Gregor Cresnar](http://www.flaticon.com/authors/gregor-cresnar) from [Flaticon](http://www.flaticon.com), [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)
+- [Diving Icons by Madebyoliver](http://www.flaticon.com/authors/madebyoliver) from [Flaticon](http://www.flaticon.com), [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)
+- [Sea Life 2 Icon Pack by Freepik](http://www.flaticon.com/packs/sea-life-collection) from [Flaticon](http://www.flaticon.com), [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)
+
+## Misc 
+
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+
+[© Codrops 2016](http://www.codrops.com)
+
+
+
+
+
