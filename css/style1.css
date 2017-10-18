@@ -191,31 +191,6 @@ a:focus {
 	pointer-events: none;
 }
 
-.featured-imagen {
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-flex-wrap: wrap;
-	-ms-flex-wrap: wrap;
-	flex-wrap: wrap;
-	-webkit-justify-content: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-align-items: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-align-content: center;
-	-ms-flex-line-pack: center;
-	align-content: center;
-	max-width: 50vw;
-	min-width: 550px;
-	height: 60vh;
-	margin: 30vh auto 0;
-	padding: 0;
-	list-style: none;
-	text-align: center;
-}
-
 .featured-list {
 	display: -webkit-flex;
 	display: -ms-flexbox;
