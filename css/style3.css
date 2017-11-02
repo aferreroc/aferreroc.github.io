@@ -186,6 +186,19 @@ a:focus {
 	letter-spacing: 2px;
 }
 
+.landing-header__tagline2 {
+	font-size: 1em;
+	padding: 0 1em;
+	font-weight: 700;
+	line-height: 2;
+	max-width: 500px;
+	margin: 1em auto 0;
+	color: #58616a;
+	background: #fffe8d;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
 .landing-header__title span {
 	position: relative;
 	display: inline-block;

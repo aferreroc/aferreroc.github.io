@@ -178,6 +178,21 @@ a:focus {
 	font-family: "Crimson Text", serif;
 }
 
+.landing-header__tagline2 {
+	font-size: 0.85em;
+	padding: 0.65em 1em;
+	font-weight: 600;
+	line-height: 1;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	max-width: 500px;
+	margin: 0 auto;
+	color: #fff;
+	text-indent: 3px;
+	background: #f49863e7;
+	font-family: "Crimson Text", serif;
+}
+
 .featured-content {
 	position: absolute;
 	width: 100%;

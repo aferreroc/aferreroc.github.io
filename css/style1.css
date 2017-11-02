@@ -173,6 +173,17 @@ a:focus {
 	background: #090d31;
 }
 
+.landing-header__tagline2 {
+	font-size: 1.5em;
+	padding: 0 0.5em;
+	font-weight: 500;
+	line-height: 1.75;
+	max-width: 500px;
+	margin: 0 auto;
+	color: #ffde84;
+	background: #090d31;
+}
+
 .landing-header__title span {
 	position: relative;
 	display: inline-block;
